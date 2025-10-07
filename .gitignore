@@ -1,0 +1,43 @@
+# Ignore build directories
+target/
+build/
+
+# Maven wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.idea
+*.iws
+*.iml
+*.ipr
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore system socket files
+data/mysql.sock
+
+# Ignore sensitive property files
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
