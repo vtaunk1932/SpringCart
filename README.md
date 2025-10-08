@@ -37,25 +37,21 @@ A modern, full-stack electronic store application with product management, user 
 
 ## 📸 Screenshots
 
-### Categories | Products | Users  
-| Categories | Products | Users |
-|------------|----------|-------|
-| ![Categories](categories/Categories.png) | ![Products](products/Products.png) | ![Users](users/Users.png) |
 
 ### Cart | Home | Login  
 | Cart | Home | Login |
 |------|------|-------|
-| ![Cart](Cart.png) | ![Home](Home.png) | ![Login](Login.png) |
+| ![Cart](images/Cart.png) | ![Home](images/Home.png) | ![Login](images/Login.png) |
 
 ### Order | Order Success | Payment  
 | Order | Order Success | Payment |
 |-------|---------------|---------|
-| ![Order](Order.png) | ![OrderSuccess](OrderSuccess.png) | ![Payment](Payment.png) |
+| ![Order](images/Order.png) | ![OrderSuccess](images/OrderSuccess.png) | ![Payment](images/Payment.png) |
 
 ### Store  
 | Store |
 |-------|
-| ![Store](Store.png) |
+| ![Store](images/Store.png) |
 
 ---
 
