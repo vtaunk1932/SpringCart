@@ -1,4 +1,11 @@
 target/
+data/
+*.log
+*.sock
+*.tmp
+*.env
+node_modules/
 .git/
 .gitignore
+Dockerfile
 README.md
